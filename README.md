@@ -1,4 +1,5 @@
 # SchoolProject_ThreadCompetitiveProgramming_ITA
+## School Project in Italian Language
 
 This is a School Project we were assigned to do for introducing Competitive Programming in Java using Threads.
 
