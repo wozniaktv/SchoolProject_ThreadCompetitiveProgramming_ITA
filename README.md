@@ -1,4 +1,4 @@
-###### This may be useful if you want to understand how to do multiple tasks at the same time.
+###### This may be useful if you want to understand how to do multiple tasks in Java at the same time.
 
 ## School Project in Italian Language
 
