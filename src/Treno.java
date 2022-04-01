@@ -65,7 +65,7 @@ public class Treno extends Thread{
     @Override
     public void run(){
 
-        for(int i=0; i<Tratta; i++){
+        while(Tratta>0){
                 if(R.nextBoolean())
                     this.Salita_Passeggeri();
                 if(R.nextBoolean())
