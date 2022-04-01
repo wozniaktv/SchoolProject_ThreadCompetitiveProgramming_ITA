@@ -23,6 +23,9 @@ public class Treno extends Thread{
         double percentuale_riduzione_tratta = ((Vagoni*Tratta)/250)/100; /* Calcolo della percentuale per la riduzione della tratta. */
 
         Tratta-=Tratta*percentuale_riduzione_tratta;
+
+        Tratta--;
+
         /* Verifico se la Tratta è andata in negativo. */
         if(Tratta<0)
             Tratta=0;

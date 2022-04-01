@@ -12,8 +12,6 @@ public class Main {
         for (Treno treno : T) {
             treno.start();
         }
-
-
     }
 
 
